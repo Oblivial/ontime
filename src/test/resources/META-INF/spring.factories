@@ -1,0 +1,1 @@
+org.springframework.test.context.ContextCustomizerFactory = de.laukventures.ontime.config.TestContainersSpringContextCustomizerFactory
